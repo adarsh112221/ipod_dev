@@ -1,0 +1,10 @@
+.frame
+{
+    height:450px;
+    width:250px;
+    background-color:#d01515;
+    display:inline-block;
+    border-radius:20px;
+    border:8px solid red;
+    position: relative;
+}

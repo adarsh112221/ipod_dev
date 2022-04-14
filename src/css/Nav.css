@@ -1,0 +1,31 @@
+.Nav
+{
+    height:10%;
+    width: inherit;
+    background-color: black;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+     display: flex;
+     justify-content: space-between;
+}
+
+.Nav i{
+    color: rgb(219, 216, 216);
+    font-size :15px;
+}
+#two {
+    
+    height: 21px;
+    align-self:flex-end;
+  
+}
+#two i{
+    font-size: 19px;
+}
+#one
+{ height: 21px;
+    align-self:flex-end;}
+.Nav div{
+    margin-left:10px;
+    margin-right:10px;
+}

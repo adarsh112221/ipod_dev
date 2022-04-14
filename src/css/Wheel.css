@@ -1,0 +1,56 @@
+.container
+{
+    position:relative;
+    top:6%;
+    left:0%;
+    height:170px;
+    width:170px;
+    background-color:grey;
+    display:inline-block;
+    border-radius:50%;
+}
+.internal
+{
+    height:50%;
+    width:50%;
+    background-color:white;
+    display:inline-block;
+    position:absolute;
+    top: 24%;
+    left: 25%;
+    border-radius:40%;
+}
+.menu
+{
+    position:absolute;
+    color:white;
+    top:7%;
+    left:38%;
+    cursor: pointer;
+}
+.forward
+{
+    position:absolute;
+    display:inline-block;
+    color:white;
+    top:82.5%;
+    left:45%;
+    cursor: pointer;
+}
+.forward1
+{
+    position:absolute;
+    top:45%;
+    left:82.5%;
+    display: inline-block;
+    cursor: pointer;
+}
+.backward
+{
+    position:absolute;
+    display: inline-block;
+    color:white;
+    top:45%;
+    left:6.5%;
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.display
+{
+    height:52%;
+    width:inherit;
+    position:relative;
+    display:inline-block;
+    background-color:white;
+    border-radius:11px;
+    position:relative;
+    overflow: hidden;
+   
+    
+}
